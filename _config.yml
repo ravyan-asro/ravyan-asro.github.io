@@ -21,7 +21,7 @@ repository               : "ravyan-asro/ravyan-asro.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pfp_final.jpg"
+  avatar           : "pfp.jpg"
   name             : "Rya Sanovar"
   pronouns         : #"she/her"  
   bio              : "Research Fellow at Microsoft"
