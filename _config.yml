@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Rya Sanovar"
 title_separator          : "-"
 name                     : &name "Rya Sanovar"
-description              : &description "Research Fellow at Microsoft Research"
+description              : &description "Research Fellow at Microsoft"
 url                      : https://ravyan-asro.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ravyan-asro/ravyan-asro.github.io"
@@ -21,10 +21,10 @@ repository               : "ravyan-asro/ravyan-asro.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pfp_final.jpg"
   name             : "Rya Sanovar"
-  pronouns         : # example: "she/her"  
-  bio              : "Research Fellow at Microsoft Research"
+  pronouns         : "she/her"  
+  bio              : "Research Fellow at Microsoft"
   location         : "Bengaluru, Karnataka"
   employer         : "Microsoft"
   uri              : # URL
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/rya-sanovar-b418a4239/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
