@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "pfp_final.jpg"
   name             : "Rya Sanovar"
-  pronouns         : "she/her"  
+  pronouns         : #"she/her"  
   bio              : "Research Fellow at Microsoft"
   location         : "Bengaluru, Karnataka"
   employer         : "Microsoft"
