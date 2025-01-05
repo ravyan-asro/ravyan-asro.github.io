@@ -1,7 +1,7 @@
 ---
 title: 'The Wickedness Within'
 date: 2025-01-05
-permalink: /posts/wicked/
+permalink: /posts/2025/01/blog-post-2/
 tags:
   - essay
   - Wicked
